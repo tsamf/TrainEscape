@@ -5,7 +5,7 @@ In this game the player must figure out the combination to a locked crate that h
 
 <img src="/Documentation/Train_Escape_Splash.png" width="500">
 
-Some of the many features this game includes:  
+Some of the features this game includes:  
 Importing/customizing free community assets  
 Blueprint Widget for basic UI  
 Blueprints for UI and door controls   
