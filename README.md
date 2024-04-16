@@ -10,7 +10,7 @@ Importing/customizing free community assets
 Blueprint Widget for basic UI  
 Blueprints for UI and door controls   
 Sound integration  
-First person Actor Customization  
+First person Character Customization  
 
 IDE: Visual Studio 2022 express edition  
 Unreal Version: 5.3.2  
