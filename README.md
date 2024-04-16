@@ -14,4 +14,4 @@ IDE: Visual Studio 2022 express edition
 Tool Kit: HoloToolkit V2017.2  
 Unreal Version: 5.3.2  
 Platform: Desktop  
-Playthrough: 
+Playthrough: https://youtu.be/YgkhB-02pI4
